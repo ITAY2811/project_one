@@ -1,2 +1,1 @@
-# project_one
-Git Exercises
+# Hello Git
